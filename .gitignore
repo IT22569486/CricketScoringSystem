@@ -1,0 +1,68 @@
+﻿# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dylib
+
+# Visual Studio
+.vs/
+.vscode/settings.json
+.vscode/launch.json
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folder
+obj/
+bin/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.angular/
+
+# Firebase
+.firebase/
+.firebaserc
+firebase-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+user-secrets/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Angular
+.angular/cache/
+coverage/
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Tests
+.vscode/
+
+# misc
+*.log
